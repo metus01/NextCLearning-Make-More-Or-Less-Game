@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 12
-int main()
+int main(void)
 {
     FILE* file = NULL;
     file = fopen("test.txt", "r");
@@ -25,10 +25,12 @@ int main()
             printf("%c" , current_caracter);
         }while(current_caracter != EOF);
         fclose(file);
-    
+     
     }else
+
     {
-        printf("access denied to file test.txt");
+        printf("access denied to file test.txt"); 
     }
     return 0;
+    return
 }

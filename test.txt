@@ -1,1 +1,4 @@
 The current user has 45 years old
+Un langage de script est un type de langage de programmation qui est principalement utilisé pour écrire des scripts, c'est-à-dire des séquences d'instructions exécutées ligne par ligne sans nécessiter de compilation préalable. Les langages de script sont conçus pour automatiser des tâches spécifiques, manipuler des données et interagir avec des systèmes ou des logiciels existants de manière rapide et flexible. Ils mettent souvent l'accent sur la simplicité syntaxique, la rapidité de développement et la facilité d'utilisation, ce qui les rend adaptés à des tâches telles que l'automatisation, le traitement de données, la gestion de fichiers, la configuration système, etc.
+
+En résumé, un langage de script est un langage de programmation interprété, souvent utilisé pour écrire des scripts d'automatisation et de manipulation de données, en mettant l'accent sur la simplicité et la rapidité de développement.
